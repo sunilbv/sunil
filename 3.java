@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-public class JavaProgram
+public class srm
 {
     public static void main(String args[])
     {
         char ch;
         Scanner scan = new Scanner(System.in);
 		
-        System.out.print("Enter an Alphabet : ");
+        System.out.print("Enter any Alphabet : ");
         ch = scan.next().charAt(0);
 		
         if(ch=='a' || ch=='A' || ch=='e' || ch=='E' ||
