@@ -18,7 +18,7 @@ public class JavaProgram
         }
         else
         {
-            System.out.print("This is not a Vowel");
+            System.out.print("This is a Consonant");
         }
     }
 }
